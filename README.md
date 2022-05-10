@@ -5,5 +5,4 @@ Atividades práticas do módulo de  JavaScript:
 - Orientação a objetos
 - Map, reduce, filter
 - Tratamento de erros
-- D.O.M.
 
